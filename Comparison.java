@@ -1,0 +1,1 @@
+public enum Comparison{better, same, worse}
